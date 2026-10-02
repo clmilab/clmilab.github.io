@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CLMI Lab"
+title: "Causal Language and Multimodal Intelligence Lab"
 author_profile: true
 redirect_from: 
   - /about/
