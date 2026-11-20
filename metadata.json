@@ -1,0 +1,8 @@
+{
+  "name": "CLMI Lab — Casual Language and Multimodal Intelligence Lab",
+  "description": "Official academic research laboratory portal for the Casual Language and Multimodal Intelligence Lab (CLMI Lab), advancing NLP, multimodal learning, computer vision, and trustworthy AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
